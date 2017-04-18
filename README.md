@@ -10,16 +10,9 @@
 
 代码分享才能进步，虽然不复杂，但是希望能给需要的一点小帮助啦~嘿嘿
 
-不定期更新~
+有机会再来更新~
 
-#### 运行截图
-
-![](http://imzhai.com/apps/images/howold.png)
-
-#### 关于我啦
-
-博客地址：http://imzhai.com/
-
-E-mail：zhai.dongyan@foxmail.com，
+#### 欢迎交流
 
 Gmail：zhaidyan@gmail.com
+
